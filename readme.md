@@ -35,7 +35,7 @@ This project leverages Computer Vision and YOLOv8 to identify vehicles violating
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/traffic-violation-detection.git
+    git clone https://github.com/Jasmit7/Drishti/
     ```
 2. Navigate to the project directory:
     ```bash
